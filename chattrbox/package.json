@@ -1,0 +1,27 @@
+{
+  "name": "chattrbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaine-R/CPSC349-Sub5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaine-R/CPSC349-Sub5.git"
+  },
+  "homepage": "https://github.com/Kaine-R/CPSC349-Sub5.git",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "dependencies": {
+    "ws": "^7.2.0"
+  },
+  "description": "Stuff"
+}
